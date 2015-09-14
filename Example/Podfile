@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'DRBCocoaHeadsLib_Example', :exclusive => true do
+  pod "DRBCocoaHeadsLib", :path => "../"
+end
+
+target 'DRBCocoaHeadsLib_Tests', :exclusive => true do
+  pod "DRBCocoaHeadsLib", :path => "../"
+
+  
+end

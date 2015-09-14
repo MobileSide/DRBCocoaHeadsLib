@@ -1,0 +1,14 @@
+PODS:
+  - DRBCocoaHeadsLib (0.1.0)
+
+DEPENDENCIES:
+  - DRBCocoaHeadsLib (from `../`)
+
+EXTERNAL SOURCES:
+  DRBCocoaHeadsLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DRBCocoaHeadsLib: 5e537ca0a4eabca05e110ff31662de0040d0d92d
+
+COCOAPODS: 0.38.2

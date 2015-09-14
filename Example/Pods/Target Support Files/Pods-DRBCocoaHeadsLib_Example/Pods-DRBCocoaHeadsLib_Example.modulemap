@@ -1,0 +1,6 @@
+framework module Pods_DRBCocoaHeadsLib_Example {
+  umbrella header "Pods-DRBCocoaHeadsLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
