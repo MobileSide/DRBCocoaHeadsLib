@@ -4,10 +4,10 @@ Pod::Spec.new do |s|
   s.summary          = "A short description of DRBCocoaHeadsLib."
   s.description      = <<-DESC
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/DRBCocoaHeadsLib"
+  s.homepage         = "https://bitbucket.org/danielbatiston/drbcocoaheadslib"
   s.license          = 'MIT'
   s.author           = { "Daniel Batiston" => "danielbatiston@yahoo.com.br" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/DRBCocoaHeadsLib.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://bitbucket.org/danielbatiston/drbcocoaheadslib", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
