@@ -1,9 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = "DRBCocoaHeadsLib"
   s.version          = "0.1.0"
-  s.summary          = "A short description of DRBCocoaHeadsLib."
-  s.description      = <<-DESC
-                       DESC
+  s.summary          = "DRBCocoaHeadsLib."
+  s.description      = <<-Biblioteca desenvolvida como exemplo para o 4º CocoaHeads Blumenau.
+Talk sobre utilização do CocoaPods no ciclo de desenvolvimento de aplicações.
+Por: Daniel Batiston www.hicode.com.br
   s.homepage         = "https://bitbucket.org/danielbatiston/drbcocoaheadslib"
   s.license          = 'MIT'
   s.author           = { "Daniel Batiston" => "danielbatiston@yahoo.com.br" }
