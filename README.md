@@ -5,6 +5,13 @@
 [![License](https://img.shields.io/cocoapods/l/DRBCocoaHeadsLib.svg?style=flat)](http://cocoapods.org/pods/DRBCocoaHeadsLib)
 [![Platform](https://img.shields.io/cocoapods/p/DRBCocoaHeadsLib.svg?style=flat)](http://cocoapods.org/pods/DRBCocoaHeadsLib)
 
+
+Library (pod) developed as an example for the 4th CocoaHeads Blumenau.
+Talk about using CocoaPods in the application development cycle.
+By: Daniel Batiston 
+www.hicode.com.br
+
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
