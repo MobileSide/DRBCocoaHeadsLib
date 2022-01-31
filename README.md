@@ -8,8 +8,7 @@
 
 Library (pod) developed as an example for the 4th CocoaHeads Blumenau.
 Talk about using CocoaPods in the application development cycle.
-By: Daniel Batiston 
-www.hicode.com.br
+By: Daniel Batiston, https://mobileside.io
 
 
 ## Usage
@@ -29,7 +28,7 @@ pod "DRBCocoaHeadsLib"
 
 ## Author
 
-Daniel Batiston, danielbatiston@yahoo.com.br
+Daniel Batiston
 
 ## License
 
